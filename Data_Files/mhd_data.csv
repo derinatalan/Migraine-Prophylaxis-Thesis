@@ -1,0 +1,15 @@
+﻿Study_ID,Group,Intervention,Sample_Size,MHD_Baseline,MHD_Baseline_SD,Timepoint,Change_MHD,MHD_SD
+Ailani2021,Pharma,Atogepant,221,9.3,2.7,T3,-4.8,0.2
+Ailani2021,Pharma,Atogepant,228,9.2,2.7,T3,-4.4,0.2
+Ailani2021,Pharma,Atogepant,231,9.1,2.7,T3,-4.3,0.2
+Pozo-Rosich2023,Pharma,Atogepant,257,21.1,4.1,T3,-7.4,0.4
+Pozo-Rosich2023,Pharma,Atogepant,262,21.5,4.3,T3,-7,0.4
+Sakai2021,Pharma,Fremanezumab,189,21.6,4.1,T3,-4.4,0.5
+Sakai2021,Pharma,Fremanezumab,191,21.1,3.9,T3,-4.3,0.5
+Aksu2023,NIBS,a-tDCS-C3,11,14.45,8.48,T3,-9.09,2.5
+Cerrahoglu2021,NIBS,a-tDCS-C3,21,12,0.5,T3,-5.62,1.2
+Cerrahoglu2021,NIBS,a-tDCS-C3,15,11.73,0.5,T3,-7.73,1.2
+Pohl2021,NIBS,a-tDCS-O1,11,7,3,T3,-1.9,0.5
+Najib2022,NIBS,nVNS,56,13.4,4,T3,-4.56,1.56
+Najib2022,NIBS,nVNS,56,13.4,4,T3,-5.52,2.79
+Tepper2023,NIBS,REN,128,15.6,4.5,T3,-4.2,4.5
