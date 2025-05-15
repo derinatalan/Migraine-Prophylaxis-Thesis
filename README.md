@@ -1,5 +1,6 @@
 # Treatments of Migraine Prophylaxis
-This repository contains the screening documents, data files, and analysis scripts of the Bachelor thesis: "Optimizing Migraine Treatment Through Non-invasive Brain Stimulation: A Systematic Review of NIBS Applications and Pharmaceuticals"
+This repository contains the screening documents, data files, and analysis scripts of the Bachelor thesis: 
+"Optimizing Migraine Treatment Through Non-invasive Brain Stimulation: A Systematic Review of NIBS Applications and Pharmaceuticals"
 
 ## Abstract
 Migraine is a common disabling disorder, and the need for effective prophylactic treatment is unmet, with low efficacy, tolerability, and accessibility. Current preventive pharmaceuticals often result in poor adherence due to intolerable side effects and high costs. Neuromodulation has recently emerged as an alternative, but its efficacy has not been assessed against pharmaceuticals. This review comparatively assessed the efficacy of pharmaceuticals and neuromodulation in migraine prophylaxis.
